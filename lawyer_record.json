@@ -1,0 +1,74 @@
+[
+    {
+        "lawyerID": "LID002",
+        "lawyerName": "Ravi Kumar",
+        "lawyerNumber": "8480759962",
+        "laywerAddress": "WhiteField,Bengaluru",
+        "lawyerDomain": "Divorce",
+        "laywerCase": 30,
+        "lawyerExperienece": 7,
+        "lawyerWinRatio": 0.78,
+        "lawyerLicenseNumber": "KA129032",
+        "lawyerStatus": "Active"
+    },
+    {
+        "lawyerID": "LID005",
+        "lawyerName": "Peter Parker",
+        "lawyerNumber": "8762181254",
+        "laywerAddress": "JC Road,Mysuru",
+        "lawyerDomain": "Crime",
+        "laywerCase": 17,
+        "lawyerExperienece": 8,
+        "lawyerWinRatio": 0.77,
+        "lawyerLicenseNumber": "KA199901",
+        "lawyerStatus": "Active"
+    },
+    {
+        "lawyerID": "LID003",
+        "lawyerName": "Shiva Kumar",
+        "lawyerNumber": "8080759852",
+        "laywerAddress": "JP Nagar,Bengaluru",
+        "lawyerDomain": "Civil",
+        "laywerCase": 20,
+        "lawyerExperienece": 9,
+        "lawyerWinRatio": 0.57,
+        "lawyerLicenseNumber": "KA139903",
+        "lawyerStatus": "Active"
+    },
+    {
+        "lawyerID": "LID009",
+        "lawyerName": "John Roy",
+        "lawyerNumber": "9762181253",
+        "laywerAddress": "Mandhya",
+        "lawyerDomain": "Crime",
+        "laywerCase": 27,
+        "lawyerExperienece": 15,
+        "lawyerWinRatio": 0.8,
+        "lawyerLicenseNumber": "KA09990",
+        "lawyerStatus": "Active"
+    },
+    {
+        "lawyerID": "LID001",
+        "lawyerName": "Vinay",
+        "lawyerNumber": "9480759924",
+        "laywerAddress": "Kengari,Bengaluru",
+        "lawyerDomain": "Crime",
+        "laywerCase": 40,
+        "lawyerExperienece": 12,
+        "lawyerWinRatio": 0.7,
+        "lawyerLicenseNumber": "KA129031",
+        "lawyerStatus": "Active"
+    },
+    {
+        "lawyerID": "LID010",
+        "lawyerName": "Jiven",
+        "lawyerNumber": "9562181260",
+        "laywerAddress": "Mandhya",
+        "lawyerDomain": "Crime",
+        "laywerCase": 10,
+        "lawyerExperienece": 4,
+        "lawyerWinRatio": 0.45,
+        "lawyerLicenseNumber": "KA089910",
+        "lawyerStatus": "Inactive"
+    }
+]
