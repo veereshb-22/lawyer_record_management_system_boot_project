@@ -105,7 +105,7 @@ Base URL: /api/lawyers
 
 
 ## Sample Data
-      
+   { 
         "lawyerID": "LID002",
         "lawyerName": "Ravi Kumar",
         "lawyerNumber": "8480759962",
@@ -124,7 +124,7 @@ Base URL: /api/lawyers
    ### This project is licensed under the MIT License:
           MIT License
 
-            Copyright (c) 2023 Veeresh B
+            Copyright (c) 2025 Veeresh B
             
             Permission is hereby granted, free of charge, to any person obtaining a copy
             of this software and associated documentation files (the "Software"), to deal
